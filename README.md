@@ -13,7 +13,6 @@
 Видеообзор:
 https://rutube.ru/video/9c53227a4f075e79d635f806066a5d33/
 
-
 Функционал:
 
 Приложение работает в двух режимах:
@@ -26,6 +25,14 @@ https://rutube.ru/video/9c53227a4f075e79d635f806066a5d33/
 - Разработать веб-админку для настройки приложения
 - Разработать 3 варианта дизайна
 - Разместить приложение в Google Play Market, AppStore
+
+Скриншоты:
+![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/1024x500.png)
+![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/1.png)
+![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/2.png)
+![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/3.png)
+![1](https://github.com/s2023alek/mobile-app-LexStatus/blob/2bb257811302125a9b5020e927ddca2c82222597/README/4.png)
+
 
 Просмотреть приложение в Google Play:  
 https://play.google.com/store/apps/details?id=ru.lexstatus.mobileapp
