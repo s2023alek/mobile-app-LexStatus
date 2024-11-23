@@ -35,9 +35,12 @@ https://rutube.ru/video/9c53227a4f075e79d635f806066a5d33/
 
 
 Просмотреть приложение в Google Play:  
-https://play.google.com/store/apps/details?id=ru.lexstatus.mobileapp
+
+https://play.google.com/store/apps/details?id=ru.lexstatus.mobileapp  
+
 Просмотреть приложение в iTunes Preview:  
-https://itunes.apple.com/us/app/uridiceskaa-kompania-lexstatus/id1035379863?l=ru&ls=1&mt=8  
+
+https://itunes.apple.com/us/app/uridiceskaa-kompania-lexstatus/id1035379863?l=ru&ls=1&mt=8    
 
 
 ## 2 описание кода/архитектуры, навигация по коду
